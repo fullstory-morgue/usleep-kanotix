@@ -2,13 +2,11 @@ Source: usleep-kanotix
 Section: misc
 Priority: optional
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: cdbs, debhelper (>> 3.0.0)
+Build-Depends: cdbs, debhelper (>> 5.0.0)
 Standards-Version: 3.6.2
 
 Package: usleep-kanotix
 Architecture: any
 Depends: ${shlibs:Depends}
-Provides: usleep-knoppix
-Replaces: usleep-knoppix
 Description: custom sleep function
  Sleeps for a number of microseconds, see man 3 usleep.

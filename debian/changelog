@@ -1,3 +1,11 @@
+usleep-kanotix (0.5.4) unstable; urgency=low
+
+  * remove knoppix virtual packages.
+  * clean up debian/rules.
+  * bump compat level to 5.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 12:08:00 +0100
+
 usleep-kanotix (0.5.3) unstable; urgency=low
 
   * recompile with gcc-4.0.
@@ -5,7 +13,7 @@ usleep-kanotix (0.5.3) unstable; urgency=low
   * fix package description.
   * fix lintian errors.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 18 Aug 2005 02:13:21 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 12:07:56 +0100
 
 usleep-kanotix (0.5-2) unstable; urgency=low
 
