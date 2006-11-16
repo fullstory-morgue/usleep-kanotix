@@ -1,6 +1,7 @@
-usleep-kanotix (0.5.5) UNRELEASED; urgency=low
+usleep-kanotix (0.5.5) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHANED
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 17 Dec 2005 12:10:13 +0100
 
